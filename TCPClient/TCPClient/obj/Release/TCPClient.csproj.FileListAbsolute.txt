@@ -1,0 +1,10 @@
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\bin\Release\TCPClient.exe.config
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\bin\Release\TCPClient.exe
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\bin\Release\TCPClient.pdb
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.Form1.resources
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.Properties.Resources.resources
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.csproj.GenerateResource.cache
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.exe
+C:\Users\fmehm\source\repos\TCPClient\TCPClient\obj\Release\TCPClient.pdb

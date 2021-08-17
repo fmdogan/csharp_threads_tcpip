@@ -1,0 +1,10 @@
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\fmehm\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
